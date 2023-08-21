@@ -6,6 +6,9 @@ namespace lab2ex2
     {
         static void Main(string[] args)
         {
+            /* Ex2
+             Scrieti un program care va afisa factorialul unui numar n, n fiind citit
+            de la tastatura*/
             Console.WriteLine("Introduceti n!");
             int numar = int.Parse(Console.ReadLine());
 

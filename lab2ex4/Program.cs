@@ -23,7 +23,7 @@ namespace lab2ex4
             }
             else
             {
-                Console.WriteLine("Numarul este palindrom");
+                Console.WriteLine("Numarul nu este palindrom");
             }
 
 
